@@ -1,4 +1,4 @@
-
+print ("moonlight client | Loaded with sucess")
 
 
 local nawh_table = {
@@ -127,8 +127,8 @@ local stupid_cat_table = {
 local args = {
     [1] = "Update",
     [2] = {
-        ["DescriptionText"] = "Welcome to caracal.lua for: Rate My Avatar!",
-        ["ImageId"] = 7103784562
+        ["DescriptionText"] = "Moonlight client successfully loaded!",
+        ["ImageId"] = 294841732
     }
 }
 
