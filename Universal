@@ -29,4 +29,9 @@ end
 if game.PlaceId == 4972091010 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ObviouslyOrchi/Moonlight_Client.lua/main/Moonlight_Client_Zombie_Uprising"))()
 end
+--CartRideIntoRdite--
+if game.PlaceId == 4972091010 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ObviouslyOrchi/Moonlight_Client.lua/main/Moonlight_Client_cart_ride_into_rdite",true))()
+end
+
 
