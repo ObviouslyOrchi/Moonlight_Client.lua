@@ -31,5 +31,9 @@ end
 if game.PlaceId == 2788229376 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ObviouslyOrchi/Moonlight_Client.lua/main/Moonlight_Client_DaHood",true))()
 end
+--Hotel Elephant--
+if game.PlaceId == 23578803 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ObviouslyOrchi/Moonlight_Client.lua/main/Hotel%20Elephant",true))()
+end
 
 
